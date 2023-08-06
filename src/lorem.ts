@@ -1,0 +1,1 @@
+export const LOREM = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate esse ratione harum minus itaque, rem ullam aperiam! Aspernatur veniam tenetur sed. Minus atque soluta necessitatibus fugit nostrum ab est inventore.'
